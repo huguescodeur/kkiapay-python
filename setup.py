@@ -44,7 +44,7 @@ setuptools.setup(
     "more-itertools==10.7.0",
     "mypy_extensions==1.1.0",
     "nh3==0.2.21",
-    "packaging==23.2",       # remplacé (25.0 → 23.2)
+    "packaging>=24.0,<26.0",
     "pathspec==0.12.1",
     "pkginfo==1.12.1.2",
     "platformdirs==4.3.8",
